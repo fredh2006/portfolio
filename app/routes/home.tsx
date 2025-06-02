@@ -15,7 +15,7 @@ const sections = {
         <br />
         - eating more and more food everyday
         <br />
-        - hoping the <span className="text-orange-400 font-semibold">knicks</span> win the nba finals
+        - hoping the <span className="text-orange-400 font-semibold">knicks</span> win the nba finals (it's doomed)
         <br /><br />
         Let's connect about anything here!
       </>
