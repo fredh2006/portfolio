@@ -9,7 +9,7 @@ const sections = {
         <br /><br />
         - studying computer science @ <span className="text-blue-300 font-semibold">uoft</span>
         <br />
-        - interning as a software engineer @ <span className="text-blue-300 font-semibold">sentri ai</span>
+        - interning as a software engineer @ <span className="text-blue-300 font-semibold">sentri ai</span> and @ <span className={`font-semibold ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</span>
         <br />
         - working as a founding engineer @ <span className="text-blue-300 font-semibold">aeira</span>
         <br />
@@ -30,6 +30,10 @@ const sections = {
         • software engineer intern @ <span className="text-blue-300 font-semibold">sentri ai</span>
         <br />
         &nbsp;&nbsp;- building software for law firms
+        <br /><br />
+        • software engineer intern @ <span className={`font-semibold ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</span>
+        <br />
+        &nbsp;&nbsp;- building the first marketplace for students
         <br /><br />
         • founding engineer @ <span className="text-blue-300 font-semibold">aeira</span>
         <br />
