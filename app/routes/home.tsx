@@ -9,7 +9,7 @@ const sections = {
         <br /><br />
         - studying computer science @ <span className="text-blue-300 font-semibold">uoft</span>
         <br />
-        - interning as a software engineer @ <span className="text-blue-300 font-semibold">sentri ai</span> and @ <span className={`font-semibold ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</span>
+        - interning as a software engineer @ <a href="https://sentriai.xyz" target="_blank" rel="noopener noreferrer" className="text-blue-300 font-semibold hover:text-blue-200 transition-colors underline">sentri ai</a> and @ <a href="https://empor.ca" target="_blank" rel="noopener noreferrer" className={`font-semibold hover:opacity-80 transition-opacity underline ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</a>
         <br />
         - working as a founding engineer @ <span className="text-blue-300 font-semibold">aeira</span>
         <br />
@@ -27,11 +27,11 @@ const sections = {
       <>
         I've worked on/as a:
         <br /><br />
-        • software engineer intern @ <span className="text-blue-300 font-semibold">sentri ai</span>
+        • software engineer intern @ <a href="https://sentriai.xyz" target="_blank" rel="noopener noreferrer" className="text-blue-300 font-semibold hover:text-blue-200 transition-colors underline">sentri ai</a>
         <br />
         &nbsp;&nbsp;- building software for law firms
         <br /><br />
-        • software engineer intern @ <span className={`font-semibold ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</span>
+        • software engineer intern @ <a href="https://empor.ca" target="_blank" rel="noopener noreferrer" className={`font-semibold hover:opacity-80 transition-opacity underline ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</a>
         <br />
         &nbsp;&nbsp;- building the first marketplace for students
         <br /><br />
