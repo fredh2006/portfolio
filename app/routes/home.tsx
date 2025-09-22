@@ -9,7 +9,7 @@ const sections = {
         <br /><br />
         - studying computer science @ <span className="text-blue-300 font-semibold">uoft</span>
         <br />
-        - interning as a software engineer @ <a href="https://sentriai.xyz" target="_blank" rel="noopener noreferrer" className="text-blue-300 font-semibold hover:text-blue-200 transition-colors underline">sentri ai</a> and @ <a href="https://empor.ca" target="_blank" rel="noopener noreferrer" className={`font-semibold hover:opacity-80 transition-opacity underline ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</a>
+        - interning as a software engineer @ <a href="https://milieubio.com" target="_blank" rel="noopener noreferrer" className="text-green-500 font-semibold hover:text-green-400 transition-colors underline">milieu  </a>
         <br />
         - working as a founding engineer @ <span className="text-blue-300 font-semibold">aeira</span>
         <br />
@@ -29,15 +29,15 @@ const sections = {
         <br /><br />
         • software engineer intern @ <a href="https://sentriai.xyz" target="_blank" rel="noopener noreferrer" className="text-blue-300 font-semibold hover:text-blue-200 transition-colors underline">sentri ai</a>
         <br />
-        &nbsp;&nbsp;- building software for law firms
+        &nbsp;&nbsp;- built software for law firms
         <br /><br />
         • software engineer intern @ <a href="https://empor.ca" target="_blank" rel="noopener noreferrer" className={`font-semibold hover:opacity-80 transition-opacity underline ${isDarkMode ? 'text-pink-300' : 'text-pink-600'}`}>empor</a>
         <br />
-        &nbsp;&nbsp;- building the first marketplace for students
+        &nbsp;&nbsp;- worked on the first marketplace for students
         <br /><br />
         • founding engineer @ <span className="text-blue-300 font-semibold">aeira</span>
         <br />
-        &nbsp;&nbsp;- leading the technological development
+        &nbsp;&nbsp;- bringing in a new aeira of supplements
         <br /><br />
         • junior software engineer @ <span className="text-blue-300 font-semibold">uoft blueprint</span>
         <br />
@@ -112,7 +112,7 @@ const sections = {
 export function meta() {
   return [
     { title: "Fred He" },
-    { name: "description", content: "Software Engineer and Student" },
+    { name: "description", content: "SWE @ Milieu | CS @ UofT" },
   ];
 }
 
