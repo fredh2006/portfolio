@@ -19,30 +19,9 @@ export default function Projects() {
       className="min-h-screen relative"
       style={{
         fontFamily: "Crimson Text, Georgia, Palatino, Times New Roman, serif",
-        background: "#ffffff",
+        background: "#F5F5DC",
       }}
     >
-      {/* Animated Background */}
-      <div
-        className="fixed inset-0 pointer-events-none"
-        style={{
-          background:
-            "radial-gradient(circle 1000px at 20% 30%, rgba(167, 139, 250, 0.25) 0%, rgba(219, 234, 254, 0.15) 40%, transparent 70%), radial-gradient(circle 900px at 80% 70%, rgba(99, 102, 241, 0.2) 0%, rgba(237, 233, 254, 0.15) 40%, transparent 70%), radial-gradient(circle 800px at 50% 50%, rgba(147, 197, 253, 0.18) 0%, rgba(254, 242, 242, 0.12) 40%, transparent 70%)",
-          zIndex: 0,
-        }}
-      ></div>
-
-      <style
-        dangerouslySetInnerHTML={{
-          __html: `
-          @keyframes float {
-            0%, 100% { transform: translate(0, 0) scale(1); }
-            33% { transform: translate(30px, -30px) scale(1.1); }
-            66% { transform: translate(-20px, 20px) scale(0.9); }
-          }
-        `,
-        }}
-      />
 
       {/* Header */}
       <header className="relative z-10">
