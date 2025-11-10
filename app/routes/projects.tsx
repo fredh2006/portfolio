@@ -19,7 +19,7 @@ export default function Projects() {
       className="min-h-screen relative"
       style={{
         fontFamily: "Crimson Text, Georgia, Palatino, Times New Roman, serif",
-        background: "#F5F5DC",
+        background: "#F8F6EE",
       }}
     >
 
@@ -35,7 +35,7 @@ export default function Projects() {
               href="https://github.com/fredh2006"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-neutral-900 hover:text-neutral-500 transition-colors"
+              className="text-neutral-950 hover:text-neutral-600 transition-colors"
               aria-label="GitHub"
             >
               <FontAwesomeIcon icon={faGithub} />
@@ -44,14 +44,14 @@ export default function Projects() {
               href="https://www.linkedin.com/in/fred-he"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-neutral-900 hover:text-neutral-500 transition-colors"
+              className="text-neutral-950 hover:text-neutral-600 transition-colors"
               aria-label="LinkedIn"
             >
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
             <a
               href="mailto:fredhe56@gmail.com"
-              className="text-neutral-900 hover:text-neutral-500 transition-colors"
+              className="text-neutral-950 hover:text-neutral-600 transition-colors"
               aria-label="Email"
             >
               <FontAwesomeIcon icon={faEnvelope} />
