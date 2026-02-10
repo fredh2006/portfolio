@@ -76,6 +76,50 @@ export default function Projects() {
               className="text-sm text-neutral-500 w-28 flex-shrink-0 tracking-wide"
               style={{ fontFamily: "DM Sans, sans-serif", fontWeight: "400" }}
             >
+              2026
+            </time>
+            <div className="flex-1">
+              <a
+                href="https://github.com/fredh2006/zinc"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-base text-neutral-800 leading-relaxed group-hover:text-neutral-900 hover:underline"
+              >
+                Zinc
+              </a>
+              <p className="text-sm text-neutral-500 mt-1">
+                Natural language video editor, #3 at HackAI Toronto.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex items-baseline gap-12 py-3 border-b border-neutral-200 transition-colors group">
+            <time
+              className="text-sm text-neutral-500 w-28 flex-shrink-0 tracking-wide"
+              style={{ fontFamily: "DM Sans, sans-serif", fontWeight: "400" }}
+            >
+              2026
+            </time>
+            <div className="flex-1">
+              <a
+                href="https://devpost.com/software/stitch-9omwe0"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-base text-neutral-800 leading-relaxed group-hover:text-neutral-900 hover:underline"
+              >
+                Stitch
+              </a>
+              <p className="text-sm text-neutral-500 mt-1">
+                Unified context management across your workplace tools.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex items-baseline gap-12 py-3 border-b border-neutral-200 transition-colors group">
+            <time
+              className="text-sm text-neutral-500 w-28 flex-shrink-0 tracking-wide"
+              style={{ fontFamily: "DM Sans, sans-serif", fontWeight: "400" }}
+            >
               2025
             </time>
             <div className="flex-1">
