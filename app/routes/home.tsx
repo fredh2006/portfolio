@@ -86,7 +86,7 @@ export default function Home() {
         {/* Intro */}
         <div className="mb-20">
           <p className="text-lg text-neutral-600 leading-relaxed max-w-3xl">
-            Hey, I'm Fred. Studying CS @ University of Toronto & Founding Engineer @ <a href="https://milieuskin.com" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ background: 'linear-gradient(135deg, #10b981, #34d399)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>Milieu</a>.
+            Hey, I'm Fred. Studying CS @ University of Toronto & SWE Intern @ <a href="https://besimple.ai" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ color: '#f97316' }}>Besimple</a>.
           </p>
         </div>
 
@@ -100,7 +100,19 @@ export default function Home() {
               currently
             </time>
             <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
-              Accelerating microbiome consciousness @ Milieu and trying to reach GM in TFT
+              Making data for voice models better and trying to reach GM in TFT
+            </p>
+          </div>
+
+          <div className="flex items-baseline gap-12 py-3 border-b border-neutral-200 transition-colors group">
+            <time
+              className="text-sm text-neutral-500 w-28 flex-shrink-0 tracking-wide"
+              style={{ fontFamily: "DM Sans, sans-serif", fontWeight: "400" }}
+            >
+              1/10/2026
+            </time>
+            <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
+              Offered & accepted role @ <a href="https://besimple.ai" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ color: '#f97316' }}>Besimple</a>
             </p>
           </div>
 
@@ -126,7 +138,7 @@ export default function Home() {
               10/23/2025
             </time>
             <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
-              Went to SF for Boost VC Bio Residency & meeting the team
+              Went to SF for Boost VC Bio Residency & met the team
             </p>
           </div>
 
@@ -138,7 +150,7 @@ export default function Home() {
               9/4/2025
             </time>
             <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
-              Offered & accepted role @ <a href="https://milieuskin.com" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ background: 'linear-gradient(135deg, #10b981, #34d399)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>Milieu</a>
+              Enabled microbiome consciousness @ <a href="https://milieuskin.com" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ background: 'linear-gradient(135deg, #10b981, #34d399)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>Milieu</a>
             </p>
           </div>
 
@@ -162,7 +174,7 @@ export default function Home() {
               6/20/2025
             </time>
             <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
-              Built software for law firms @ <a href="https://sentriai.xyz" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ background: 'linear-gradient(135deg, #3b82f6, #60a5fa)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>Sentri</a>
+              Built software for law firms @ <a href="https://sentriai.xyz" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ color: '#3b82f6' }}>Sentri</a>
             </p>
           </div>
 
@@ -171,7 +183,7 @@ export default function Home() {
               className="text-sm text-neutral-500 w-28 flex-shrink-0 tracking-wide"
               style={{ fontFamily: "DM Sans, sans-serif", fontWeight: "400" }}
             >
-              1/1/2025
+              1/8/2025
             </time>
             <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
               Built campus marketplaces @ <a href="https://empor.ca" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ background: 'linear-gradient(135deg, #ec4899, #f472b6)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>Empor</a>
