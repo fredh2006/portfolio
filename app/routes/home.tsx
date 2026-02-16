@@ -162,7 +162,7 @@ export default function Home() {
               9/1/2025
             </time>
             <p className="text-base text-neutral-800 flex-1 leading-relaxed group-hover:text-neutral-900">
-              Started sophmore year at University of Toronto
+              Started sophomore year at University of Toronto
             </p>
           </div>
 
